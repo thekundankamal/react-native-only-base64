@@ -1,0 +1,23 @@
+{
+  "name": "react-native-only-base64",
+  "version": "1.0.0",
+  "description": "Base64 encoding and decoding utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekundankamal/react-native-only-base64.git"
+  },
+  "keywords": [
+    "Base64Enocder",
+    "Base64Decoder"
+  ],
+  "author": "Kundan Kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekundankamal/react-native-only-base64/issues"
+  },
+  "homepage": "https://github.com/thekundankamal/react-native-only-base64#readme"
+}
